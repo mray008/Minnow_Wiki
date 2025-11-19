@@ -16,7 +16,7 @@ buttonDiv2{
     margin-top: 2%;
     margin-bottom: 10px;
 }
-#presentations {
+#task{
     background-color: Transparent;
     width: 15vw;
     height: 10vh;
@@ -32,7 +32,7 @@ buttonDiv2{
     margin-bottom: 10px;
 }
 
-#presentations:hover {
+#task:hover {
     background-color: Transparent;
     width: 15vw;
     height: 10vh;
@@ -47,7 +47,7 @@ buttonDiv2{
     margin-bottom: 10px;
 }
 
-#bios {
+#process{
     background-color: Transparent;
     width: 15vw;
     height: 10vh;
@@ -62,7 +62,7 @@ buttonDiv2{
     position: absolute;
 }
 
-#bios:hover {
+#process:hover {
     background-color: Transparent;
     color: black;
     width: 15vw;
@@ -136,7 +136,7 @@ buttonDiv2{
     left: 75%;
     position: absolute;
 }
-#labs {
+#interface {
     background-color: Transparent;
     width: 15vw;
     height: 10vh;
@@ -152,7 +152,7 @@ buttonDiv2{
     margin-bottom: 10px;
 }
 
-#labs:hover {
+#interface:hover {
     background-color: Transparent;
     width: 15vw;
     height: 10vh;
