@@ -169,7 +169,7 @@ buttonDiv2{
 
 
 #containerDiv {
-    margin-top: 140px;
+    margin-top: 2vh;
     background-color: rgba(255, 255, 255, 0.75);
     width: 80vw;
     left: 10%;
@@ -189,9 +189,9 @@ buttonDiv2{
 
 
 #ePitchH {
-    margin-top: 10%;
+    margin-top: 2vh;
     color: black;
-    margin-top: 10%;
+    margin-top: 1%;
 }
 
 #ePitchP {
@@ -249,6 +249,29 @@ buttonDiv2{
     width: 100vw;
     background-repeat: no-repeat;
     position: center;
+    background-position: center;
+    text-align: center;
+    color: black;
+    box-shadow: 4px 4px 5px gray;
+}
+#containerDiv2{
+       margin-top: 20vh;
+    background-color: rgba(255, 255, 255, 0.75);
+    width: 80vw;
+    left: 10%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    text-align: left;
+    color: black;
+    box-shadow: 4px 4px 5px gray;
+}
+#AuthorDiv{
+    margin-top: 20vh;
+    background-color: rgba(255, 255, 255, 0.75);
+    width: 80vw;
+    background-repeat: no-repeat;
+    position: relative;
     background-position: center;
     text-align: center;
     color: black;
